@@ -10,7 +10,7 @@ const WINNING_COMBOS = [
   ["2", "4", "6"],
 ];
 
-// =====================View================
+// =====================View===============
 (function () {
   // your page initialization code here
   // the DOM will be available here
